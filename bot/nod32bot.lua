@@ -229,6 +229,8 @@ function create_config( )
     "ingroup",
     "inpm",
     "inrealm",
+    "welcome",
+    "webshot",
     "invite",
     "leave_ban",
     "linkpv",
