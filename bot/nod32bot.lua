@@ -239,6 +239,8 @@ function create_config( )
     "anti_fosh",
     "left_group",
     "owners",
+    "text",
+    "echo",
     "plugins",
     "set",
     "spam",
